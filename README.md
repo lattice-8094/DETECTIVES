@@ -4,4 +4,4 @@ repository for the data &amp; code of the papers "[Modeling the Construction of 
 
 Main Folder for Reproducibility of the CHR2025 paper -> "detectives_minimal_implementation" -> <a href="https://github.com/lattice-8094/DETECTIVES/tree/main/detectives_minimal_implementation" target="_blank">[here]</a>
 
-Main Folder for Reproducibility of the DH2026 paper -> 
+Main Folder for Reproducibility of the DH2026 paper -> "birth_minimal_implementation" -> <a href="https://github.com/lattice-8094/DETECTIVES/tree/main/birth_minimal_implementation" target="_blank">[here]</a>
