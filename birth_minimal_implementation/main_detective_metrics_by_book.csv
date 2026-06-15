@@ -1,0 +1,374 @@
+file_name,year,char_id,char_name,mention_count,is_detective,is_main_character,is_main_detective,degree,pagerank,betweenness,closeness
+1856_Feval-Paul_Madame-Gil-Blas-souvenirs-et-aventures-d-une-femme-de-notre-temps_(Volume-3),1856,1,pidoux,484.0,True,False,True,128,0.13200136756849767,0.0,0.9
+1866_Gaboriau-Emile_L-affaire-Lerouge,1866,1,m. daburon,2291.0,True,False,True,776,0.1555617304752062,0.0,1.0
+1867_Aimard-Gustave-Auriac-Jules-Berlioz-d-_Les-Forestiers-du-Michigan,1867,0,basil,1575.0,True,True,True,345,0.23703677153974367,0.0,1.0
+1867_Gaboriau-Emile_Le-crime-d-Orcival,1867,1,m. lecoq,3095.0,True,False,True,701,0.17168245404897914,0.0,1.0
+1867_Gaboriau-Emile_Le-dossier-113,1867,6,m. verduret,1310.0,True,False,True,267,0.07895558763612515,0.2361111111111111,0.9
+1868_Feval-Paul_Les-habits-noirs_Tome-III-La-rue-de-Jerusalem,1868,2,pistolet,1522.0,True,False,True,419,0.15876377743133757,0.08333333333333333,1.0
+1868_Gaboriau-Emile_Les-Esclaves-de-Paris_Tome-II,1868,2,andré,1550.0,True,False,True,229,0.091108748838887,0.2222222222222222,0.75
+1869_Feval-Paul_Maman-Leo-Les-habits-Noirs_Tome-V,1869,9,lecoq,475.0,True,False,True,120,0.07082979046178015,0.3333333333333333,1.0
+1869_Gaboriau-Emile_Monsieur-Lecoq_I,1869,0,lecoq,4569.0,True,True,True,678,0.25510338331161936,0.0,1.0
+1870_Gaboriau-Emile_La-vie-infernale_1-Pascale-et-Marguerite-2-Lia-d-Argeles,1870,2,m. fortunat,2302.0,True,False,True,210,0.07354570705551525,0.3981481481481481,1.0
+1871_Gaboriau-Emile_La-Degringolade_Tome-1,1871,5,me roberjot,689.0,True,False,True,199,0.09517131923354681,0.2222222222222222,0.8181818181818182
+1871_Gaboriau-Emile_La-clique-doree,1871,0,daniel,6692.0,True,True,True,1116,0.192643303145526,0.0,1.0
+1872_Gaboriau-Emile_La-Degringolade_Tome-3,1872,0,raymond,2830.0,True,True,True,745,0.22286439070267944,0.0,1.0
+1872_Verne-Jules_Le-tour-du-monde-en-quatre-vingts-jours,1872,3,fix,965.0,True,False,True,345,0.1473863042983178,0.0,1.0
+1873_Gaboriau-Emile_La-corde-au-cou,1873,4,maître folgat,1367.0,True,False,True,475,0.1014105238221854,0.05555555555555555,1.0
+1876_Boisgobey-Fortune-du_L-Omnibus-du-diable,1876,1,chambras,1113.0,True,False,True,346,0.1493311455791236,0.0,0.9
+1876_Boisgobey-Fortune-du_Les-Mysteres-du-nouveau-Paris_(Tome-2),1876,0,marcel,1793.0,True,True,True,670,0.22855037587380878,0.0,1.0
+1876_Montepin-Xavier-de_Le-Ventriloque-L-assassin-de-Mariette,1876,7,brigadier,267.0,True,False,True,138,0.08433367214552888,0.0,0.8181818181818182
+1876_Montepin-Xavier-de_Le-Ventriloque-La-femme-du-Prussien,1876,4,passecoul,414.0,True,False,True,224,0.09607781537752359,0.3611111111111111,1.0
+1876_Montepin-Xavier-de_Le-Ventriloque-Le-mari-et-l-amant,1876,5,jobin,493.0,True,False,True,209,0.08422360034050132,0.2222222222222222,0.9
+1877_Debans-Camille_Le-Capitaine-Marche-ou-Creve,1877,8,malbec,833.0,True,False,True,318,0.06565308574678413,0.2222222222222222,1.0
+1877_Parfait-Paul_L-Agent-secret,1877,6,colmache,470.0,True,False,True,324,0.07695708301205877,0.0,1.0
+1877_Pont-Jest-Rene-de_Le-N°13-de-la-rue-Marlot,1877,2,william dow,1240.0,True,False,True,368,0.142334262059245,0.0,0.9
+1878_Aimard-Gustave-Auriac-Jules-Berlioz-d_Jim-l-Indien,1878,1,adolphe,723.0,True,False,True,196,0.1371721236879703,0.0,1.0
+1878_Boisgobey-Fortune-du_Le-crime-de-l-Opera_1,1878,5,nointel,1169.0,True,False,True,363,0.07640035116753989,0.0,0.9
+1878_Boisgobey-Fortune-du_Le-crime-de-l-Opera_2,1878,0,nointel,4459.0,True,True,True,1079,0.17407936860232395,0.0,1.0
+1878_Bouvier-Alexis_La-Grande-Iza,1878,6,boyer,1210.0,True,False,True,131,0.03756842342411512,0.38888888888888884,0.8181818181818182
+1878_Chavette-Eugene_La-Recherche-d-un-pourquoi,1878,2,gaudru,1611.0,True,False,True,339,0.08497579871666675,0.0,1.0
+1878_Cornely-Jules_L-Oeil-du-diable,1878,1,nicou,2013.0,True,False,True,487,0.12387227036113008,0.0,1.0
+1879_Chavette-Eugene_Nous-marions-Virginie,1879,1,m. o,793.0,True,False,True,24,0.09236014332546286,0.2222222222222222,0.5
+1879_Lavigne-Ernest_Le-Roman-d-une-nihiliste,1879,5,ribowski,918.0,True,False,True,342,0.08815653231643648,0.0,1.0
+1880_Denoy-Emmanuel_Mademoiselle-Clarens,1880,2,tiziano,1479.0,True,False,True,448,0.16232911254498206,0.0,0.9
+1880_Vernier-Paul_La-Chasse-aux-nihilistes,1880,0,albert,1094.0,True,True,True,156,0.14159282690206487,0.0,0.9
+1881_Berthet-Elie_Le-Charlatan,1881,5,jobson,838.0,True,False,True,187,0.08131841668636576,0.125,1.0
+1881_Feval-Paul_Roger-Bontemps,1881,0,roger,2536.0,True,True,True,615,0.23963068119434644,0.0,1.0
+1881_O-Monroy-Richard_Feux-de-paille,1881,1,tournecourt,731.0,True,False,True,65,0.1168318116563645,0.0,0.6
+1881_Richebourg-Emile_Le-fils,1881,5,morlot,2379.0,True,False,True,480,0.09903704487536359,0.0,1.0
+1881_Sauniere-Paul_La-Succession-Marignan,1881,4,bodzogian,607.0,True,False,True,364,0.09850292490882095,0.0,0.9
+1881_Verne-Jules-_La-Jangada-huit-cent-lieues-sur-l-Amazone,1881,5,le juge jarriquez,757.0,True,False,True,280,0.08339463940615213,0.0,1.0
+1882_Sauniere-Paul_Le-Capitaine-Marius,1882,5,jacquier,1338.0,True,False,True,398,0.08526618196499737,0.0,1.0
+1882_Ulbach-Louis_La-confession-d-un-abbe,1882,3,m. barbier,1108.0,True,False,True,297,0.13140626467466152,0.2222222222222222,0.8181818181818182
+1882_Zaccone-Pierre_La-Recluse,1882,8,palmer,564.0,True,False,True,143,0.04733767520588168,0.16666666666666666,0.8181818181818182
+1883_Bouvier-Alexis_Le-Bel-Alphonse,1883,8,me lehideux,570.0,True,False,True,191,0.05308671709369442,0.19444444444444442,1.0
+1883_Pont-Jest-Rene-de_La-Femme-de-cire,1883,3,m. davis,675.0,True,False,True,324,0.1281350962769475,0.0,1.0
+1884_Chavette-Eugene_Le-saucisson-a-pattes_I-Fil-a-beurre,1884,1,vasseur,1202.0,True,False,True,292,0.13334886606921412,0.0,1.0
+1884_Chavette-Eugene_Le-saucisson-a-pattes_II-Le-plan-de-Cardeuc,1884,4,meuzelin,737.0,True,False,True,161,0.08070236247139397,0.19444444444444442,1.0
+1884_Laurie-Andre_L-Heritier-de-Robinson,1884,0,m. gloaguen,1287.0,True,True,True,406,0.1812992496484419,0.0,1.0
+1885_Boisgobey-Fortune-du_La-voilette-bleue,1885,2,mériadec,1788.0,True,False,True,587,0.13880931748419548,0.0,1.0
+1885_Lermina-Jules_Histoires-incroyables,1885,2,maurice,1222.0,True,False,True,191,0.18076472702389687,0.3611111111111111,0.6049382716049383
+1885_Verne-Jules_Mathias-Sandorf,1885,3,pointe pescade,1287.0,True,False,True,691,0.13775886013009936,0.0,1.0
+1886_Boisgobey-Fortune-du_La-Bande-rouge_Tome-II,1886,0,roger,10548.0,True,True,True,554,0.19305380881381312,0.06944444444444445,1.0
+1888_Malot-Hector_Conscience,1888,0,saniel,4356.0,True,True,True,972,0.25571725223058317,0.0,1.0
+1889_Boisgobey-Fortune-du_Double-Blanc,1889,0,hervé,4184.0,True,True,True,934,0.23647993780096618,0.0,1.0
+1889_Boisgobey-Fortune-du_La-main-froide,1889,0,paul,4276.0,True,True,True,1139,0.24462059798993194,0.0,1.0
+1889_Graffigny-H-de-Le-Faure-Georges_Aventures-extraordinaires-d-un-savant-russe_Tome-I-La-lune,1889,6,jonathan farenheit,749.0,True,False,True,181,0.0757786990535947,0.05555555555555555,1.0
+1889_Graffigny-H-de-Le-Faure-Georges_Aventures-extraordinaires-d-un-savant-russe_Tome-II-Le-Soleil-et-les-petites-planetes,1889,3,farenheit,890.0,True,False,True,321,0.10579233463911951,0.0,1.0
+1889_Mary-Jules_La-Revanche-de-Roger-la-honte_Tome-II,1889,2,célestin,1854.0,True,False,True,353,0.12843040860627303,0.08333333333333333,0.9
+1890_Pont-Jest-Rene-de_Le-Fleuve-des-perles,1890,1,ming,1137.0,True,False,True,215,0.1281960848226059,0.0,1.0
+1890_Zola-Emile_La-bete-humaine,1890,5,m. denizet,515.0,True,False,True,244,0.06743033827277206,0.08333333333333333,0.9
+1891_Feval-Paul_La-vampire,1891,1,jean-pierre,1214.0,True,False,True,300,0.16346437969564642,0.0,1.0
+1891_Huysmans-Joris-Karl_La-bas,1891,0,durtal,2670.0,True,True,True,614,0.340429180089248,0.2222222222222222,1.0
+1891_Ohnet-Georges_Dette-de-haine,1891,3,bernheimer,1743.0,True,False,True,397,0.08093417905568388,0.0,1.0
+1892_Lesueur-Daniel_Passion-slave,1892,4,serge krilovsky,452.0,True,False,True,188,0.07821190531667738,0.375,1.0
+1893_Bourget-Paul_Cosmopolis,1893,1,dorsenne,1716.0,True,False,True,524,0.13284770529757328,0.0,1.0
+1893_Courteline-Georges_Messieurs-les-ronds-de-cuir,1893,1,chavarax,467.0,True,False,True,81,0.1316896133523145,0.041666666666666664,1.0
+1893_Feval-Paul-fils_les-suites-de-lagardere_6-le-duc-de-nevers,1893,4,m. hélouin,558.0,True,False,True,199,0.07529007251647953,0.125,1.0
+1894_Chabrillat-Henri-de_Les-cinq-sous-de-Lavarede,1894,0,lavarède,3042.0,True,True,True,519,0.1932159652777533,0.0,1.0
+1895_Huysmans-Joris-Karl_En-Route,1895,0,durtal,6104.0,True,True,True,601,0.3807726159907857,0.0,1.0
+1895_Ivoi-Paul-d-_Le-Sergent-Simplet-a-travers-les-colonies-françaises,1895,3,l' avignonnais,1368.0,True,False,True,196,0.08121479916031306,0.16666666666666666,1.0
+1897_Ivoi-Paul-d-_Cousin-de-Lavarede-,1897,2,lavarède,1839.0,True,False,True,525,0.1410165467556669,0.0,1.0
+1897_Ivoi-Paul-d-_Jean-Fanfare,1897,0,jean,2421.0,True,True,True,470,0.21926818972560574,0.0,1.0
+1898_Huysmans-Joris-Karl_La-Cathedrale,1898,0,durtal,2289.0,True,True,True,240,0.37074197262239283,0.0,0.9
+1898_Ivoi-Paul-d-_Corsaire-Triplex,1898,0,robert,1518.0,True,True,True,270,0.15214692891272857,0.0,1.0
+1898_Ivoi-Paul-d-_La-Capitaine-Nilia,1898,0,jack,4799.0,True,True,True,855,0.29302408963434023,0.0,1.0
+1898_Louÿs-Pierre_La-femme-et-le-pantin,1898,2,andré,390.0,True,False,True,165,0.12407786382973596,0.08333333333333333,0.6923076923076923
+1899_Le-Rouge-Gustave_La-Conspiration-des-milliardaires_Tome-II-a-coups-de-milliards,1899,0,olivier coronal,2915.0,True,True,True,526,0.22496098174596924,0.0,1.0
+1899_Le-Rouge-Gustave_La-Conspiration-des-milliardaires_Tome-III-Le-Regiment-des-hypnotiseurs,1899,0,léon,3514.0,True,True,True,343,0.200390338764346,0.0,1.0
+1899_Le-Rouge-Gustave_La-Conspiration-des-milliardaires_Tome-IV-La-revanche-du-Vieux-Monde,1899,0,léon,1883.0,True,True,True,389,0.2118497532093486,0.0,1.0
+1899_Ohnet-Georges_Au-fond-du-gouffre,1899,4,marenval,1261.0,True,False,True,308,0.07891681122676786,0.19444444444444442,1.0
+1901_Ivoi-Paul-d-_Voyages-excentriques-Cigale-en-Chine,1901,2,cigale,1330.0,True,False,True,378,0.11517285957743723,0.0,1.0
+1902_Le-Rouge-Gustave_La-Princesse-des-airs_Tome-I,1902,0,alban,1371.0,True,True,True,491,0.16099704763593423,0.0,1.0
+1903_Huysmans-Joris-Karl_L'Oblat,1903,0,durtal,1989.0,True,True,True,532,0.265019495524778,0.0,1.0
+1906_Galopin-Arnould_Le-Docteur-Omega,1906,0,le docteur oméga,2164.0,True,True,True,610,0.2983084767914768,0.0,1.0
+1906_Le-Rouge-Gustave_La-Reine-des-elephants,1906,1,m. montbrichard,760.0,True,False,True,230,0.14022232517246236,0.0,1.0
+1906_Level-Maurice_L-epouvante,1906,0,coche,3171.0,True,True,True,199,0.33082863826572756,0.0,0.9
+1907_Leblanc-Maurice_Arsene-Lupin-gentleman-cambrioleur,1907,1,daspry,716.0,True,False,True,57,0.08782662361364785,0.0,0.6428571428571429
+1907_Mael-Pierre_Le-Forban-noir,1907,3,alain,457.0,True,False,True,106,0.08159286921082005,0.3055555555555555,1.0
+1908_Le-Rouge-Gustave_Le-Prisonnier-de-la-planete-Mars,1908,0,robert,3027.0,True,True,True,318,0.2713302651760874,0.0,1.0
+1908_Leblanc-Maurice_Arsene-Lupin-contre-Herlock-Sholmes,1908,0,sholmès,2431.0,True,True,True,443,0.20671884012618494,0.0,0.9
+1908_Leroux-Gaston_Le-mystere-de-la-chambre-jaune,1908,0,rouletabille,2927.0,True,True,True,765,0.17263875716801844,0.0,1.0
+1909_Feval-Paul-fils_Les-suites-de-lagardere_8-La-reine-cotillon,1909,8,mauléry,317.0,True,False,True,73,0.038022932425934824,0.027777777777777776,0.6428571428571429
+1909_La-Brete-Jean-de_Aimer-quand-meme,1909,3,cébronne,830.0,True,False,True,353,0.11460731021162085,0.0,1.0
+1909_Leblanc-Maurice_L-Aiguille-creuse,1909,0,beautrelet,2490.0,True,True,True,337,0.23982059847594736,0.0,1.0
+1909_Zevaco-Michel_Les-Amants-de-Venise,1909,0,scalabrino,3338.0,True,True,True,980,0.1846677757442797,0.0,1.0
+1910_Graffigny-H-de_Le-tour-de-France-en-aeroplane,1910,2,martin landoux,606.0,True,False,True,107,0.14008497599224903,0.0,0.9
+1910_Leblanc-Maurice_813,1910,0,lupin,3078.0,True,True,True,412,0.2347388197619513,0.0,1.0
+1910_Leroux-Gaston_Le-Roi-Mystere,1910,8,dixmer,552.0,True,False,True,194,0.08331789730097947,0.0,1.0
+1910_Leroux-Gaston_Le-parfum-de-la-Dame-en-noir,1910,0,rouletabille,3042.0,True,True,True,863,0.23948258262128524,0.0,1.0
+1910_Renard-Maurice_Le-Peril-Bleu,1910,0,m. le tellier,1869.0,True,True,True,268,0.20915833994636604,0.0,1.0
+1911_Leroux-Gaston_Balaoo,1911,1,patrice,1851.0,True,False,True,428,0.15110661169783793,0.2222222222222222,1.0
+1912_Leblanc-Maurice_Le-Bouchon-de-cristal,1912,0,lupin,2759.0,True,True,True,703,0.24182542259737094,0.0,1.0
+1913_Lermina-Jules_L-effrayante-aventure,1913,0,sir athel,1420.0,True,True,True,291,0.2782298385523739,0.0,0.9
+1913_Leroux-Gaston_L-epouse-du-soleil,1913,0,raymond,1879.0,True,True,True,620,0.20842611879597447,0.0,1.0
+1913_Leroux-Gaston_La-Reine-du-Sabbat,1913,2,petit-jeannot,1873.0,True,False,True,328,0.08653340223932669,0.0,1.0
+1913_Leroux-Gaston_Rouletabille-chez-le-tsar,1913,0,rouletabille,3032.0,True,True,True,1005,0.2189288282489691,0.0,1.0
+1916_Leroux-Gaston_Le-chateau-noir,1916,0,rouletabille,3552.0,True,True,True,1394,0.2705829414981659,0.0,1.0
+1917_Bernede-Arthur_Judex,1917,5,cocantin,1087.0,True,False,True,188,0.06675622287495231,0.2407407407407407,1.0
+1917_Leblanc-Maurice_L-Eclat-d-obus,1917,0,paul,3192.0,True,True,True,923,0.2892092672302047,0.0,1.0
+1917_Mac-Orlan-Pierre_Le-chant-de-l-equipage,1917,1,eliasar,1021.0,True,False,True,336,0.19278686409020857,0.0,1.0
+1918_Delly_Sous-le-masque,1918,0,gaëtano,1448.0,True,True,True,551,0.1716011040739832,0.0,0.9
+1918_Gustave-Le-Rouge-de-Brisay-Henri_L-Heroine-du-Colorado,1918,0,l' allemand,2928.0,True,True,True,822,0.1728005113032484,0.0,1.0
+1918_Le-Rouge-Gustave_Le-Mysterieux-Docteur-Cornelius,1918,1,m. bondonnat,3249.0,True,False,True,214,0.07757516845638655,0.1111111111111111,1.0
+1918_Leblanc-Maurice_Le-Triangle-d-or,1918,0,patrice,2878.0,True,True,True,1034,0.23996312777913312,0.0,1.0
+1918_Leroux-Gaston_Les-etranges-noces-de-Rouletabille,1918,0,rouletabille,2841.0,True,True,True,1109,0.2660713159480332,0.2222222222222222,1.0
+1920_Leroux-Gaston_Aventures-effroyables-de-M-Herbert-de-Renich_Tome-I-Le-Capitaine-Hyx,1920,6,médéric eristal,383.0,True,False,True,85,0.04805592580867146,0.5,0.75
+1920_Leroux-Gaston_Aventures-effroyables-de-M-Herbert-de-Renich_Tome-II-La-Bataille-invisible,1920,4,gabriel,410.0,True,False,True,248,0.13471118531921755,0.0,1.0
+1920_Leroux-Gaston_Rouletabille-chez-Krupp,1920,0,rouletabille,1562.0,True,True,True,561,0.2662586011009875,0.0,1.0
+1920_Renard-Maurice_Les-Mains-d-Orlac,1920,1,rosine,2226.0,True,False,True,537,0.23568181510913933,0.0,1.0
+1921_Leblanc-Maurice_Le-Formidable-Evenement,1921,0,simon,3073.0,True,True,True,714,0.32018521887298784,0.0,1.0
+1921_Leroux-Gaston_Les-cages-flottantes,1921,3,le commandant barrachon,467.0,True,False,True,159,0.10069522333124739,0.0,0.75
+1921_Leroux-Gaston_Palas-et-Cheri-Bibi,1921,2,m. hilaire,912.0,True,False,True,172,0.13281797621139754,0.05555555555555555,1.0
+1922_Leblanc-Maurice_Le-Cercle-rouge,1922,2,max lamar,1383.0,True,False,True,189,0.10185659363226404,0.0,0.8181818181818182
+1922_Leroux-Gaston_Le-crime-de-Rouletabille,1922,0,rouletabille,2098.0,True,True,True,633,0.24237828834966085,0.0,1.0
+1922_Martin-du-Gard-Roger_Les-Thibault_Tome-II-Le-penitencier,1922,0,antoine,1965.0,True,True,True,662,0.2353292090343252,0.08333333333333333,1.0
+1922_Romains-Jules_Les-copains,1922,0,bénin,1141.0,True,True,True,170,0.23835892558408023,0.2222222222222222,1.0
+1923_Bourget-Paul_La-Geôle,1923,4,vernat,809.0,True,False,True,308,0.09258997867695341,0.0,1.0
+1923_Le-Rouge-Gustave_La-Dame-noire-des-frontieres,1923,1,robert,738.0,True,False,True,302,0.1451599337969041,0.0,1.0
+1923_Le-Rouge-Gustave_Les-Aventures-de-Todd-Marvel-detective-milliardaire,1923,0,john jarvis,1992.0,True,True,True,560,0.2849388210426642,0.0,1.0
+1923_Leblanc-Maurice_Les-Huit-Coups-de-l-horloge,1923,0,rénine,1300.0,True,True,True,386,0.2968306884902349,0.0,1.0
+1923_Martin-du-Gard-Roger_Les-Thibault_Tome-III-La-Belle-Saison,1923,1,antoine,2606.0,True,False,True,494,0.1546604676744203,0.38888888888888884,1.0
+1924_Descaves-Lucien_L-Hirondelle-sous-le-toit,1924,4,le docteur chazey,605.0,True,False,True,188,0.11283876257880296,0.3148148148148148,0.9
+1924_Leblanc-Maurice_La-comtesse-de-Cagliostro,1924,0,raoul,4225.0,True,True,True,1053,0.2962704454472881,0.0,1.0
+1924_Leblanc-Maurice_La-dent-d-Hercule-Petitgris,1924,0,rouxval,609.0,True,True,True,108,0.22069097819529912,0.0,1.0
+1924_Leroux-Gaston_La-machine-a-assassiner,1924,0,jacques,1068.0,True,True,True,308,0.18391837460154267,0.0,1.0
+1925_Zevaco-Michel_Le-fils-de-Pardaillan_tome-2,1925,0,jehan,4055.0,True,True,True,1002,0.2851651565004705,0.0,1.0
+1926_Leroux-Gaston_Le-coup-d-Etat-de-Cheri-Bibi,1926,0,m. hilaire,2985.0,True,True,True,578,0.21108888266894776,0.0,1.0
+1926_Leroux-Gaston_Le-fantome-de-l-Opera,1926,3,le persan,1260.0,True,False,True,258,0.08488038829596596,0.3055555555555555,1.0
+1926_Leroux-Gaston_Le-fils-de-trois-peres-Hardigras,1926,1,m. supia,2185.0,True,False,True,421,0.1527104219595874,0.0,1.0
+1926_Zevaco-Michel_Les-Amours-du-Chico,1926,0,pardaillan,5640.0,True,True,True,1321,0.2327893437805225,0.0,1.0
+1927_Bernede-Arthur_Belphegor,1927,0,chantecoq,1379.0,True,True,True,589,0.21607950531694875,0.0,1.0
+1927_Bourget-Paul_Nos-actes-nous-suivent_tome-2,1927,0,patrick,1713.0,True,True,True,716,0.2611316800468914,0.0,1.0
+1927_Leblanc-Maurice_La-demoiselle-aux-yeux-verts,1927,0,raoul,3138.0,True,True,True,839,0.27119411843718794,0.0,1.0
+1927_Rosny-aine-J-H_La-Femme-disparue,1927,0,martial,810.0,True,True,True,190,0.17868950831744346,0.0,1.0
+1928_Le-Rouge-Gustave_La-Vallee-du-desespoir,1928,0,martial,2987.0,True,True,True,399,0.3090394817703178,0.0,1.0
+1928_Leblanc-Maurice_L-Agence-Barnett-et-Cie,1928,0,béchoux,1186.0,True,True,True,300,0.23282960378203374,0.05555555555555555,1.0
+1928_Martin-du-Gard-Roger_Les-Thibault_Tome-4-La-consultation,1928,0,antoine,1646.0,True,True,True,314,0.400400202227735,0.0,1.0
+1928_Martin-du-Gard-Roger_Les-Thibault_Tome-5-La-Sorellina,1928,1,antoine,1235.0,True,False,True,403,0.2648340311545993,0.0,1.0
+1929_Leblanc-Maurice_La-demeure-mysterieuse,1929,0,d' enneris,2620.0,True,True,True,424,0.16973833548343675,0.0,1.0
+1929_Martin-du-Gard-Roger_Les-Thibault_Tome-VI-La-mort-du-pere,1929,0,antoine,1700.0,True,True,True,402,0.26429608284567857,0.0,0.8181818181818182
+1930_Bernede-Arthur_L-Homme-au-masque-de-fer,1930,5,durbec,472.0,True,False,True,208,0.09670587991110129,0.0,1.0
+1930_Leblanc-Maurice_Le-prince-de-Jericho,1930,2,forville,992.0,True,False,True,256,0.1164244954317362,0.1388888888888889,0.9
+1930_Malraux-Andre_La-voie-royale,1930,1,claude,1236.0,True,False,True,261,0.2542864850580335,0.41666666666666663,1.0
+1930_Simenon-Georges_Pietr-le-Letton,1930,1,maigret,1594.0,True,False,True,197,0.2012479833309171,0.0,0.9
+1931_Leblanc-Maurice_La-Barre-y-va,1931,0,raoul,2065.0,True,True,True,523,0.22899215955477337,0.0,1.0
+1931_Saint-Exupery-Antoine-de_Vol-de-nuit,1931,1,rivière,599.0,True,False,True,61,0.17581954591976595,0.4722222222222222,0.75
+1931_Simenon-Georges_Au-Rendez-vous-des-Terre-Neuvas,1931,1,maigret,564.0,True,False,True,348,0.16183482051336395,0.0,1.0
+1931_Simenon-Georges_La-Guinguette-a-deux-sous,1931,1,maigret,737.0,True,False,True,310,0.19967524260176167,0.0,1.0
+1931_Simenon-Georges_La-danseuse-du-Gai-Moulin,1931,4,maigret,359.0,True,False,True,114,0.09317651089860111,0.2037037037037037,1.0
+1931_Simenon-Georges_La-nuit-du-carrefour,1931,2,maigret,619.0,True,False,True,156,0.13148036182322015,0.0,0.9
+1931_Simenon-Georges_La-tete-d-un-homme,1931,1,maigret,926.0,True,False,True,191,0.15491034973641712,0.0,0.9
+1931_Simenon-Georges_Le-pendu-de-Saint-Pholien,1931,1,maigret,535.0,True,False,True,137,0.15510830619094151,0.2222222222222222,1.0
+1931_Simenon-Georges_Monsieur-Gallet-decede,1931,0,maigret,1191.0,True,True,True,277,0.21345558991504082,0.0,1.0
+1931_Simenon-Georges_Un-crime-en-Hollande,1931,0,maigret,705.0,True,True,True,162,0.16305891897439836,0.0,1.0
+1932_Kessel-Joseph_Fortune-Carree,1932,0,philippe,2059.0,True,True,True,527,0.21240440150520776,0.0,0.8181818181818182
+1932_Leblanc-Maurice_De-minuit-a-sept-heures,1932,1,gérard,2003.0,True,False,True,725,0.251797878372196,0.0,1.0
+1932_Leblanc-Maurice_Les-dents-du-tigre,1932,0,don luis,4687.0,True,True,True,871,0.2797061785760614,0.0,1.0
+1932_Simenon-Georges_Chez-les-Flamands,1932,1,maigret,712.0,True,False,True,214,0.1710123929083213,0.0,1.0
+1932_Simenon-Georges_L-Affaire-Saint-Fiacre,1932,1,saint-fiacre,685.0,True,False,True,179,0.1523046419196927,0.0,1.0
+1932_Simenon-Georges_L-ombre-chinoise,1932,2,maigret,864.0,True,False,True,219,0.15245615007245528,0.037037037037037035,1.0
+1932_Simenon-Georges_Le-Port-des-brumes,1932,2,maigret,1007.0,True,False,True,130,0.11489081288127594,0.0,1.0
+1932_Simenon-Georges_Liberty-Bar,1932,4,boutigues,225.0,True,False,True,100,0.0871665778095778,0.39351851851851855,1.0
+1933_Delly_La-lune-d'or,1933,7,corpano,706.0,True,False,True,231,0.04624593756560137,0.40277777777777773,1.0
+1933_Leblanc-Maurice_La-femme-aux-deux-sourires,1933,0,raoul,2180.0,True,True,True,756,0.227773664329098,0.0,1.0
+1933_Leblanc-Maurice_Victor-de-la-Brigade-mondaine,1933,0,victor,2040.0,True,True,True,428,0.3028129295743897,0.0,1.0
+1933_Malraux-Andre_La-Condition-Humaine,1933,1,kyo,1635.0,True,False,True,211,0.11785262627680268,0.013888888888888888,0.9
+1933_Queneau-Raymond_Le-Chiendent,1933,7,pierre,495.0,True,False,True,128,0.07069243469262117,0.2037037037037037,1.0
+1933_Simenon-Georges_L-Ecluse-n°1,1933,2,maigret,629.0,True,False,True,232,0.14599178135904572,0.0,1.0
+1934_Le-Faure-Georges_Le-brigadier-Floridor,1934,3,floridor,999.0,True,False,True,192,0.14296506193022954,0.0,0.8181818181818182
+1934_Leblanc-Maurice_Le-chapelet-rouge,1934,3,m. rousselain,539.0,True,False,True,184,0.09395984156908138,0.0,1.0
+1934_Simenon-Georges_Maigret,1934,0,maigret,1415.0,True,True,True,428,0.2875466873884674,0.0,1.0
+1935_Bernanos-Georges_Un-crime,1935,0,le curé de mégère,2718.0,True,True,True,414,0.32752590982659247,0.0,1.0
+1935_Leblanc-Maurice_La-Cagliostro-se-venge,1935,1,raoul,1238.0,True,False,True,473,0.17092557137604814,0.0,1.0
+1936_Morand-Paul_Milady-suivi-de-Monsieur-zero,1936,1,gardefort,1055.0,True,False,True,172,0.2020165800725852,0.0,0.6
+1936_Veuzit-Max-du_Le-vieux-puits,1936,2,manzin,399.0,True,False,True,397,0.1705189502913678,0.0,1.0
+1937_Malraux-Andre_L-espoir,1937,0,manuel,1357.0,True,True,True,111,0.19672557736661755,0.06944444444444445,1.0
+1938_Simenon-Georges_L-Improbable-Monsieur-Owen,1938,1,maigret,357.0,True,False,True,58,0.13771363254165106,0.21296296296296297,0.8888888888888888
+1940_Martin-du-Gard-Roger_Les-Thibault_Tome-VIII-Epilogue,1940,0,antoine,2113.0,True,True,True,588,0.26898164670340224,0.0,1.0
+1941_Ayme-Marcel_Le-travelingue,1941,1,chauvieux,1003.0,True,False,True,390,0.16176230873839212,0.25,1.0
+1941_Leblanc-Maurice_Les-Milliards-d-Arsene-Lupin,1941,1,horace,1015.0,True,False,True,244,0.13945509023048022,0.0,1.0
+1941_Morand-Paul_L-homme-presse,1941,4,regencrantz,260.0,True,False,True,106,0.06172728784750191,0.0,0.6428571428571429
+1941_Simenon-Georges_La-maison-du-juge,1941,0,maigret,955.0,True,True,True,279,0.1730863057722314,0.0,1.0
+1941_Simenon-Georges_Les-caves-du-Majestic,1941,1,maigret,751.0,True,False,True,229,0.17381725347100233,0.0,0.9
+1942_Queneau-Raymond_Pierrot-mon-ami,1942,0,pierrot,2508.0,True,True,True,356,0.1976492477930712,0.0,1.0
+1942_Simenon-Georges_Cecile-est-morte,1942,1,maigret,927.0,True,False,True,215,0.13808096765219657,0.0,1.0
+1942_Simenon-Georges_Menaces-de-mort,1942,1,maigret,221.0,True,False,True,123,0.24071106310398097,0.0,1.0
+1943_Barjavel-Rene_Le-voyageur-imprudent,1943,0,saint-menoux,2709.0,True,True,True,436,0.2777288141671186,0.0,1.0
+1943_Malet-Leo_120-rue-de-la-Gare,1943,1,burma,970.0,True,False,True,128,0.15592187793670606,0.0,0.8181818181818182
+1943_Simenon-Georges_Le-petit-Docteur,1943,4,dollent,684.0,True,False,True,70,0.06599788528525875,0.0,0.6428571428571429
+1943_Simenon-Georges_Les-dossiers-de-l-Agence-O,1943,0,emile,6465.0,True,True,True,831,0.31576192759298444,0.0,1.0
+1944_Simenon-Georges_Felicie-est-la,1944,0,maigret,1447.0,True,True,True,416,0.28401831908508607,0.0,1.0
+1944_Simenon-Georges_L-Inspecteur-cadavre,1944,1,maigret,1019.0,True,False,True,194,0.14319544294128406,0.0,1.0
+1944_Simenon-Georges_Les-nouvelles-enquetes-de-Maigret,1944,0,maigret,4352.0,True,True,True,519,0.3449685039827842,0.2222222222222222,1.0
+1944_Simenon-Georges_Signe-Picpus,1944,2,maigret,842.0,True,False,True,168,0.15242709717844666,0.0,1.0
+1945_Bove-Emmanuel_Le-Piege,1945,0,bridet,3611.0,True,True,True,578,0.36920818267809785,0.0,1.0
+1947_Camus-Albert_La-peste,1947,0,rieux,3378.0,True,True,True,496,0.2800368235603055,0.0,1.0
+1947_Renard-Maurice_Le-Maitre-de-la-lumiere,1947,0,charles,2563.0,True,True,True,651,0.2980396499441882,0.0,1.0
+1947_Simenon-Georges_La-pipe-de-Maigret,1947,0,maigret,1151.0,True,True,True,232,0.2196759345519731,0.0,1.0
+1947_Simenon-Georges_Maigret-a-New-York,1947,0,maigret,1778.0,True,True,True,304,0.22381682808313505,0.0,1.0
+1947_Simenon-Georges_Maigret-et-l-inspecteur-Malgracieux,1947,1,maigret,895.0,True,False,True,88,0.10149895335982242,0.0,0.6428571428571429
+1948_Barjavel-Rene_Le-diable-l-emporte,1948,0,m. gé,1257.0,True,True,True,165,0.14039814115092403,0.0,1.0
+1948_Simenon-Georges_Les-vacances-de-Maigret,1948,0,maigret,1541.0,True,True,True,353,0.2371128037264415,0.0,1.0
+1949_Blondin-Antoine_L-Europe-buissoniere,1949,2,baptiston,989.0,True,False,True,35,0.06764398277367266,0.38888888888888884,0.6428571428571429
+1949_Simenon-Georges_La-premiere-enquete-de-Maigret,1949,0,maigret,1820.0,True,True,True,282,0.2519825800515355,0.0,1.0
+1949_Simenon-Georges_Maigret-chez-le-coroner,1949,1,maigret,1037.0,True,False,True,237,0.2049666666665783,0.0,0.9
+1949_Simenon-Georges_Maigret-et-la-vieille-dame,1949,1,maigret,1119.0,True,False,True,277,0.13386947793636916,0.0,1.0
+1949_Simenon-Georges_Mon-ami-Maigret,1949,0,m. pyke,1074.0,True,True,True,282,0.19232385394552026,0.0,1.0
+1950_Delly_Rue-des-trois-graces,1950,0,régis,1568.0,True,True,True,392,0.25672365705398364,0.0,1.0
+1950_Simenon-Georges_L-amie-de-madame-Maigret,1950,3,maigret,528.0,True,False,True,128,0.11404484760744839,0.3472222222222222,1.0
+1950_Simenon-Georges_Un-Noel-de-Maigret,1950,0,lecœur,1261.0,True,True,True,131,0.14144373045641478,0.2222222222222222,0.8181818181818182
+1950_Simenon-Georges_Un-nouveau-dans-la-ville,1950,0,charlie,1883.0,True,True,True,287,0.2604251300236622,0.0,1.0
+1951_Simenon-Georges_Maigret-Lognon-et-les-gangsters,1951,0,maigret,1095.0,True,True,True,241,0.2599333565921547,0.0,1.0
+1951_Simenon-Georges_Maigret-au-Picratt-s,1951,1,maigret,772.0,True,False,True,259,0.16635416059128844,0.0,1.0
+1951_Simenon-Georges_Maigret-en-meuble,1951,0,maigret,1780.0,True,True,True,286,0.18665693897737845,0.0,1.0
+1951_Simenon-Georges_Maigret-et-la-grande-perche,1951,2,maigret,822.0,True,False,True,253,0.15213664777370267,0.0,1.0
+1952_Simenon-Georges_Le-revolver-de-Maigret,1952,0,maigret,1556.0,True,True,True,292,0.21134079833767336,0.0,1.0
+1953_Robbe-Grillet-Alain_Les-Gommes,1953,5,laurent,338.0,True,False,True,68,0.06873086543922403,0.08333333333333333,0.75
+1953_Simenon-Georges_Maigret-a-peur,1953,0,maigret,1281.0,True,True,True,257,0.24178296288297219,0.0,1.0
+1953_Simenon-Georges_Maigret-et-l-homme-du-banc,1953,1,maigret,1360.0,True,False,True,256,0.1852756965961107,0.0,1.0
+1953_Simenon-Georges_Maigret-se-trompe,1953,0,maigret,1660.0,True,True,True,216,0.14582183472586605,0.0,1.0
+1954_Delly_La-fee-de-Kermoal,1954,3,mainsville,1152.0,True,False,True,402,0.11757284905780281,0.0,1.0
+1954_Simenon-Georges_Maigret-a-l-ecole,1954,1,maigret,1446.0,True,False,True,254,0.19445912103649846,0.0,1.0
+1954_Simenon-Georges_Maigret-chez-le-ministre,1954,0,maigret,1297.0,True,True,True,310,0.20840680986573265,0.0,1.0
+1954_Simenon-Georges_Maigret-et-la-jeune-morte,1954,1,maigret,906.0,True,False,True,275,0.21135924082267435,0.0,1.0
+1955_Robbe-Grillet-Alain_Le-Voyeur,1955,0,mathias,3498.0,True,True,True,359,0.4178828245202875,0.41666666666666663,1.0
+1955_Simenon-Georges_Maigret-et-le-corps-sans-tete,1955,0,maigret,1221.0,True,True,True,332,0.23340974944469137,0.0,0.9
+1955_Simenon-Georges_Maigret-tend-un-piege,1955,1,maigret,777.0,True,False,True,186,0.20279902477922232,0.0,1.0
+1956_Gary-Romain_Les-Racines-du-Ciel,1956,1,fields,1739.0,True,False,True,254,0.10195605366413758,0.0,0.8181818181818182
+1956_Malet-Leo_Corrida-aux-Champs-Elysees,1956,1,rabastens,865.0,True,False,True,167,0.1313966439008228,0.0,1.0
+1956_Simenon-Georges_Un-echec-de-Maigret,1956,1,maigret,1234.0,True,False,True,151,0.13240807245244252,0.0,1.0
+1957_Simenon-Georges_Maigret-s-amuse,1957,1,maigret,818.0,True,False,True,266,0.20980655288803143,0.0,1.0
+1957_Simenon-Georges_Maigret-voyage,1957,0,maigret,943.0,True,True,True,187,0.16166043601084712,0.0,1.0
+1958_Simenon-Georges_Les-scrupules-de-Maigret,1958,0,maigret,1168.0,True,True,True,450,0.21717101981145184,0.0,1.0
+1958_Very-Pierre_Les-disparus-de-Saint-Agil,1958,0,m. raymon,1504.0,True,True,True,168,0.15360061009359943,0.0,1.0
+1959_Magali_L'absente,1959,4,martial,400.0,True,False,True,123,0.056869691258306654,0.25,0.8181818181818182
+1959_Simenon-Georges_Maigret-et-les-temoins-recalcitrants,1959,0,maigret,927.0,True,True,True,175,0.1646914719815769,0.0,1.0
+1959_Simenon-Georges_Une-confidence-de-Maigret,1959,1,maigret,829.0,True,False,True,157,0.14210132706829667,0.0,1.0
+1959_Troyat-Henri_Les-compagnons-du-coquelicot,1959,0,nicolas,5745.0,True,True,True,1493,0.36732490610023544,0.0,1.0
+1960_Kessel-Joseph_Les-Mains-du-miracle,1960,0,kersten,4280.0,True,True,True,1126,0.3397912885932464,0.0,1.0
+1960_Simenon-Georges_Maigret-aux-assises,1960,0,maigret,1028.0,True,True,True,164,0.1508446565461484,0.0,1.0
+1960_Simenon-Georges_Maigret-et-les-vieillards,1960,0,maigret,1327.0,True,True,True,278,0.19288928317524126,0.0,1.0
+1961_Simenon-Georges_Maigret-et-le-voleur-paresseux,1961,1,maigret,608.0,True,False,True,152,0.1858067980505815,0.013888888888888888,0.9
+1961_Troyat-Henri_La-gloire-des-vaincus,1961,0,nicolas,3856.0,True,True,True,534,0.20196751513310526,0.0,0.9
+1962_Simenon-Georges_Maigret-et-le-client-du-samedi,1962,2,maigret,735.0,True,False,True,150,0.11016337001984082,0.3981481481481481,1.0
+1962_Simenon-Georges_Maigret-et-les-braves-gens,1962,2,maigret,899.0,True,False,True,183,0.12747174653090526,0.0,1.0
+1962_Troyat-Henri_Les-Dames-de-Siberie,1962,2,léparsky,1765.0,True,False,True,387,0.13518630476607618,0.0,1.0
+1963_Simenon-Georges_La-colere-de-Maigret,1963,2,maigret,571.0,True,False,True,67,0.07877724860462877,0.0,0.9
+1963_Simenon-Georges_Maigret-et-le-clochard,1963,0,maigret,1027.0,True,True,True,248,0.20947336510286038,0.0,1.0
+1963_Troyat-Henri_Sophie-ou-La-Fin-des-Combats,1963,0,sophie,5210.0,True,True,True,883,0.41459123640884726,0.0,1.0
+1964_Simenon-Georges_La-patience-de-Maigret,1964,2,maigret,655.0,True,False,True,160,0.13157999892472708,0.0,1.0
+1964_Simenon-Georges_Maigret-et-le-fantome,1964,5,maigret,404.0,True,False,True,60,0.07506336483311883,0.027777777777777776,0.9
+1964_Simenon-Georges_Maigret-se-defend,1964,2,maigret,717.0,True,False,True,91,0.09740934300645633,0.0,0.9
+1965_De-Villiers-Gerard_SAS-a-Istanbul,1965,0,malko,1713.0,True,True,True,359,0.3456080389619543,0.0,1.0
+1965_De-Villiers-Gerard_SAS-contre-CIA,1965,0,malko,3042.0,True,True,True,710,0.33825923262593566,0.0,1.0
+1966_Simenon-Georges_Maigret-et-l-affaire-Nahour,1966,2,maigret,769.0,True,False,True,164,0.12262316771779741,0.3101851851851852,1.0
+1967_Simenon-Georges_Le-voleur-de-Maigret,1967,0,maigret,1432.0,True,True,True,204,0.1689055000035588,0.0,1.0
+1968_Gary-Romain_La-Tete-coupable,1968,0,cohn,4408.0,True,True,True,482,0.39869896264541427,0.0,1.0
+1968_Simenon-Georges_L-ami-d-enfance-de-Maigret,1968,1,maigret,1222.0,True,False,True,257,0.20362598992305903,0.0,1.0
+1968_Simenon-Georges_Maigret-a-Vichy,1968,0,lecœur,1246.0,True,True,True,286,0.19638176733522508,0.0,1.0
+1968_Simenon-Georges_Maigret-hesite,1968,1,maigret,859.0,True,False,True,257,0.1764113619396777,0.0,0.9
+1969_Simenon-Georges_Maigret-et-le-tueur,1969,1,maigret,1417.0,True,False,True,152,0.19194330372589666,0.027777777777777776,0.9
+1969_Siniac-Pierre_La-Nuit-des-Auverpins,1969,2,chavadou,958.0,True,False,True,128,0.09478911749736911,0.0,0.8181818181818182
+1970_Deon-Michel_Les-poneys-sauvages,1970,0,georges,2866.0,True,True,True,757,0.23083352847949493,0.0,1.0
+1970_Simenon-Georges_Maigret-et-le-marchand-de-vin,1970,1,maigret,1309.0,True,False,True,180,0.16479404754555094,0.0,1.0
+1971_Dhotel-Andre_L-honorable-Monsieur-Jacques,1971,4,darfaut,547.0,True,False,True,298,0.08631138996844041,0.0,1.0
+1971_Laurent-Jacques_Les-betises,1971,4,gustin,1240.0,True,False,True,150,0.09135861483512807,0.75,1.0
+1971_Simenon-Georges_Maigret-et-l-homme-tout-seul,1971,1,maigret,1282.0,True,False,True,267,0.18750862239224853,0.0,1.0
+1971_Simenon-Georges_Maigret-et-l-indicateur,1971,1,maigret,688.0,True,False,True,103,0.09954993821972635,0.041666666666666664,1.0
+1972_Boileau-Narcejac_La-vie-en-miettes,1972,0,duval,4512.0,True,True,True,884,0.3958333310339359,0.0,1.0
+1972_Gary-Romain_Europa,1972,0,danthès,4391.0,True,True,True,917,0.3183692180745909,0.0,1.0
+1972_Simenon-Georges_Maigret-et-Monsieur-Charles,1972,1,maigret,910.0,True,False,True,192,0.12845869795026463,0.013888888888888888,1.0
+1972_Veuzit-Max-du_Sa-maman-de-papier,1972,4,lewis,300.0,True,False,True,149,0.045484715952784055,0.41666666666666663,0.9
+1973_Barjavel-Rene_Le-Grand-Secret,1973,2,frend,800.0,True,False,True,267,0.1965628554224556,0.41666666666666663,0.9
+1973_Deon-Michel_Un-Taxi-mauve,1973,4,seamus,608.0,True,False,True,181,0.06383031386798407,0.027777777777777776,1.0
+1975_Deon-Michel_Le-Jeune-homme-vert,1975,0,jean,5406.0,True,True,True,1106,0.3558540202219987,0.0,1.0
+1977_Gary-Romain_Charge-d-ame,1977,0,mathieu,1237.0,True,True,True,139,0.2199960201716817,0.0,0.7901234567901234
+1978_Boileau-Narcejac_L-age-bete,1978,0,lucien,3060.0,True,True,True,547,0.28843270065418286,0.0,1.0
+1979_Echenoz-Jean_Le-meridien-de-Greenwich,1979,0,paul,662.0,True,True,True,72,0.09814099374610208,0.4305555555555555,0.8181818181818182
+1979_Gary-Romain_Les-clowns-lyriques,1979,0,willie,2341.0,True,True,True,497,0.28306406169412623,0.0,1.0
+1979_Zevaco-Michel_Fiorinda-la-belle,1979,0,beaurevers,3003.0,True,True,True,790,0.2254999689152439,0.0,1.0
+1980_Tournier-Michel_Gaspard-Melchior-Et-Balthazar,1980,1,taor,1207.0,True,False,True,66,0.11748496417417234,0.3287037037037037,0.9
+1981_Robbe-Grillet-Alain_Djinn,1981,0,simon,941.0,True,True,True,318,0.293139414900339,0.027777777777777776,0.8181818181818182
+1982_Barjavel-Rene_La-Tempete,1982,1,olof,1387.0,True,False,True,271,0.21481361788258868,0.4305555555555555,0.75
+1982_Daeninckx-Didier_Mort-Au-Premier-Tour,1982,0,cadin,2159.0,True,True,True,229,0.2548526669162978,0.0,1.0
+1983_Echenoz-Jean_Cherokee,1983,0,georges,1461.0,True,True,True,278,0.26731593405234233,0.0,1.0
+1984_Daeninckx-Didier_Le-Geant-Inacheve,1984,0,cadin,2063.0,True,True,True,339,0.30757461414069937,0.0,1.0
+1984_Daeninckx-Didier_Meurtres-pour-memoire,1984,1,pierre cazes,571.0,True,False,True,96,0.12633296722075651,0.0,0.8181818181818182
+1984_Des-Forets-Rene-Louis_Un-malade-en-foret,1984,1,max,684.0,True,False,True,211,0.2646726109881336,0.0,0.9
+1984_Jonquet-Thierry_Mygale,1984,0,alex,1422.0,True,True,True,282,0.15963385046733003,0.0,0.9
+1985_Carrere-Emmanuel_La-Moustache,1985,1,jérôme,1471.0,True,False,True,471,0.28637736695405475,0.2222222222222222,1.0
+1985_Daeninckx-Didier_Metropolice,1985,0,jacques,1592.0,True,True,True,62,0.13167073034465462,0.18055555555555555,0.9
+1985_Villard-Marc_Le-sentier-de-la-guerre,1985,0,dan,1114.0,True,True,True,150,0.18013506040408456,0.041666666666666664,1.0
+1986_Daeninckx-Didier_Le-bourreau-et-son-double,1986,0,cadin,1754.0,True,True,True,256,0.27700725974605717,0.0,1.0
+1986_Jonquet-Thierry_Le-Manoir-Des-Immortelles,1986,0,salarnier,1132.0,True,True,True,363,0.30007407667773106,0.0,0.9
+1987_Daeninckx-Didier_Lumiere-noire,1987,0,yves guyot,797.0,True,True,True,208,0.23485275179365256,0.0,1.0
+1987_Echenoz-Jean_Equipee-malaise,1987,1,paul,870.0,True,False,True,263,0.1934495610696503,0.0,1.0
+1987_Villard-Marc_Rebelles-de-la-nuit,1987,0,tramson,1188.0,True,True,True,206,0.3394995510733554,0.0,1.0
+1989_Daeninckx-Didier_La-mort-n-oublie-personne,1989,7,camblain,250.0,True,False,True,36,0.043609455394537686,0.0,0.6923076923076923
+1989_Echenoz-Jean_Lac,1989,0,chopin,1168.0,True,True,True,269,0.2834455245083389,0.2222222222222222,1.0
+1989_Villard-Marc_La-dame-est-une-trainee,1989,0,pradal,1429.0,True,True,True,168,0.33108750932972253,0.0,1.0
+1990_Daeninckx-Didier_Le-facteur-fatal,1990,0,cadin,2245.0,True,True,True,260,0.31999334997969797,0.7777777777777777,0.9
+1990_Laurent-Jacques_Le-miroir-aux-tiroirs,1990,0,jean,4549.0,True,True,True,1096,0.36537970733900565,0.2222222222222222,1.0
+1991_Boileau-Narcejac_La-main-passe,1991,0,marescot,2795.0,True,True,True,357,0.3659534053989576,0.15277777777777776,1.0
+1991_Sagan-Françoise_Les-Faux-fuyants,1991,1,loïc,1468.0,True,False,True,659,0.18776038351129248,0.0,1.0
+1991_Vargas-Fred_L-homme-aux-cercles-bleus,1991,0,adamsberg,2289.0,True,True,True,604,0.24449551960826862,0.0,1.0
+1994_Grange-Jean-Christophe_Le-vol-des-cigognes,1994,6,dumaz,454.0,True,False,True,55,0.05692310277427526,0.0,0.6
+1994_Laurent-Jacques_Croire-a-Noel,1994,3,le juge balducio,240.0,True,False,True,30,0.09833018938830144,0.08333333333333333,0.2962962962962963
+1995_Barjavel-Rene_Ravage,1995,2,seita,712.0,True,False,True,89,0.09232578055813659,0.0,0.6428571428571429
+1995_Echenoz-Jean_Les-Grandes-Blondes,1995,2,personnettaz,624.0,True,False,True,173,0.11288633085950717,0.0,0.75
+1996_Daeninckx-Didier_Nazis-dans-le-metro,1996,0,gabriel,1287.0,True,True,True,232,0.3926105970873811,0.0,1.0
+1996_Vargas-Fred_Un-peu-plus-loin-sur-la-droite,1996,0,louis,1919.0,True,True,True,484,0.2042707783982045,0.0,1.0
+1997_Grange-Jean-Christophe_Les-rivieres-pourpres,1997,0,niémans,4150.0,True,True,True,390,0.21766191127767748,0.0,1.0
+1997_Vargas-Fred_Sans-feu-ni-lieu,1997,1,louis,2581.0,True,False,True,646,0.19086736314846622,0.0,1.0
+1998_Houellebecq-Michel_Les-particules-elementaires,1998,0,bruno,1989.0,True,True,True,472,0.25022903174701155,0.1388888888888889,1.0
+1998_Jonquet-Thierry_Moloch,1998,0,charlie,1712.0,True,True,True,295,0.17410034183742915,0.0,0.8181818181818182
+1999_Echenoz-Jean_Je-m-en-vais,1999,0,ferrer,1676.0,True,True,True,276,0.3419897124258259,0.16666666666666666,1.0
+1999_Vargas-Fred_L-homme-a-l-envers,1999,1,adamsberg,1644.0,True,False,True,462,0.12126627770911971,0.0,1.0
+2000_Daeninckx-Didier_Ethique-en-toc,2000,0,gabriel,1010.0,True,True,True,280,0.24230809349552387,0.0,1.0
+2000_Grange-Jean-Christophe_Le-concile-de-pierre,2000,0,diane,6971.0,True,True,True,931,0.4046735770011924,0.0,1.0
+2001_Musso-Guillaume_Skidamarink,2001,0,barbara,1849.0,True,True,True,563,0.19201189154873466,0.0,1.0
+2001_Rufin-Jean-Christophe_Rouge-Bresil,2001,0,just,2394.0,True,True,True,764,0.23414948277275094,0.0,1.0
+2001_Vargas-Fred_Pars-vite-et-reviens-tard,2001,0,adamsberg,2726.0,True,True,True,563,0.28416841162842,0.0,1.0
+2002_Daeninckx-Didier_Leurre-de-verite-et-autres-nouvelles,2002,0,simon,263.0,True,True,True,56,0.23279678691927874,0.3333333333333333,0.47407407407407404
+2002_Vargas-Fred_Coule-la-Seine,2002,0,adamsberg,1240.0,True,True,True,270,0.33535114223494555,0.1111111111111111,1.0
+2003_Echenoz-Jean_Au-Piano,2003,0,max,2249.0,True,True,True,520,0.37392310615167534,0.0,1.0
+2003_Grange-Jean-Christophe_L-empire-des-loups,2003,1,paul,2270.0,True,False,True,299,0.16599675602112937,0.2222222222222222,0.8181818181818182
+2004_Grange-Jean-Christophe_La-Ligne-noire,2004,0,marc,7873.0,True,True,True,998,0.2687209582234366,0.05555555555555555,1.0
+2004_Rufin-Jean-Christophe_Globalia,2004,0,baïkal,2615.0,True,True,True,616,0.26255706633794546,0.0,1.0
+2004_Volodine-Antoine_Bardo-or-not-Bardo,2004,1,schlumm,849.0,True,False,True,138,0.15237874166319187,0.5,0.6
+2005_Musso-Guillaume_Sauve-moi,2005,0,sam,4284.0,True,True,True,777,0.31178068968556205,0.041666666666666664,1.0
+2006_Daeninckx-Didier_Itineraire-d-un-salaud-ordinaire,2006,0,duprest,2298.0,True,True,True,286,0.2889130659961244,0.0,1.0
+2006_Jouet-Jacques_L-amour-comme-on-l-apprend-a-l-Ecole-hoteliere,2006,1,romillat,3147.0,True,False,True,699,0.2153088971321306,0.0,1.0
+2006_Lemaitre-Pierre_Travail-Soigne,2006,0,camille,4508.0,True,True,True,818,0.3538813379148926,0.0,1.0
+2006_Vargas-Fred_Dans-les-bois-eternels,2006,0,adamsberg,3756.0,True,True,True,766,0.3033374107577776,0.0,1.0
+2007_Volodine-Antoine_Songes-de-Mevlido,2007,0,mevlido,5760.0,True,True,True,885,0.3618040529666613,0.0,1.0
+2008_Grange-Jean-Christophe_Miserere,2008,0,kasdan,5262.0,True,True,True,666,0.3161190678272068,0.0,1.0
+2008_Musso-Guillaume_Je-reviens-te-chercher,2008,0,ethan,4883.0,True,True,True,897,0.3793978377309882,0.2222222222222222,1.0
+2008_Vargas-Fred_Un-lieu-incertain,2008,0,adamsberg,3150.0,True,True,True,561,0.30767335703256693,0.0,1.0
+2010_Claudel-Philippe_L-Enquete,2010,0,la foule,2652.0,True,True,True,216,0.4568286289827303,0.9444444444444444,1.0
+2010_Houellebecq-Michel_La-Carte-et-le-territoire,2010,0,jed,6989.0,True,True,True,500,0.3541459777738252,0.0,1.0
+2010_Modiano-Patrick_L-horizon,2010,0,bosmans,1318.0,True,True,True,631,0.25462502238110896,0.3333333333333333,1.0
+2010_Rufin-Jean-Christophe_Katiba,2010,1,dim,1294.0,True,False,True,198,0.11747665538739688,0.0,0.8181818181818182
+2010_Volodine-Andoine_Les-aigles-puent,2010,0,gordon koum,997.0,True,True,True,29,0.20220147279719783,0.3333333333333333,0.5470085470085471
+2011_Borromee-Pierre_L-hermine-etait-pourpre,2011,0,dornier,1499.0,True,True,True,331,0.15044302089390119,0.0,1.0
+2011_Grange-Jean-Christophe_Le-passager,2011,0,janusz,10193.0,True,True,True,467,0.24833080385688022,0.0,1.0
+2011_Lemaitre-Pierre_Alex,2011,4,louis,805.0,True,False,True,175,0.07700620611603952,0.1111111111111111,1.0
+2011_Musso-Guillaume_L-appel-de-l-ange,2011,0,jonathan,2949.0,True,True,True,737,0.25075587666179794,0.0,1.0
+2011_Vargas-Fred_L-Armee-furieuse,2011,0,adamsberg,3126.0,True,True,True,746,0.2675097684998293,0.0,1.0
+2012_Grange-Jean-Christophe_Kaiken,2012,0,passan,4059.0,True,True,True,752,0.2803258864362852,0.0,1.0
+2013_Abecassis-Eliette_Le-palimpseste-d-Archimede,2013,0,le professeur maarek,2248.0,True,True,True,571,0.2559326548513092,0.0,1.0
+2013_Lemaitre-Pierre_Au-revoir-la-haut,2013,0,albert,4886.0,True,True,True,744,0.22071452620021104,0.0,1.0
+2013_Musso-Guillaume_Demain,2013,0,emma,3095.0,True,True,True,931,0.23712316816337198,0.0,1.0
+2014_Mathieu-Nicolas_Aux-animaux-la-guerre,2014,0,martel,2369.0,True,True,True,304,0.15545454136791026,0.29166666666666663,0.9
+2014_Modiano-Patrick_Pour-que-tu-ne-te-perdes-pas-dans-le-quartier,2014,0,daragane,1948.0,True,True,True,433,0.2744692630806949,0.0,1.0
+2014_Musso-Guillaume_Central-park,2014,1,gabriel,2152.0,True,False,True,638,0.25122130944988424,0.0,0.9
+2014_Volodine-Antoine_Terminus-radieux,2014,0,kronauer,4766.0,True,True,True,865,0.25009440288524165,0.0,1.0
+2015_Dabos-Christelle_La-Passe-miroir_2-Les-Disparus-du-Clairdelune,2015,0,ophélie,8412.0,True,True,True,2450,0.3540510090093256,0.0,1.0
+2015_Nothomb-Amelie_Le-crime-du-comte-Neville,2015,3,neville,226.0,True,False,True,72,0.09894024345531559,0.0,0.75
+2015_Sansal-Boualem_2084-La-fin-du-monde,2015,0,ati,1166.0,True,True,True,250,0.26391958869131493,0.0,1.0
+2016_Foenkinos-David_Le-mystere-Henri-Pick,2016,0,rouche,963.0,True,True,True,184,0.12828331893230496,0.013888888888888888,1.0
+2016_Murail-Marie-Aude_Sauveur-Fils_1,2016,0,sauveur,3905.0,True,True,True,929,0.2228339389374093,0.0,1.0
+2016_Murail-Marie-Aude_Sauveur-Fils_2,2016,0,sauveur,2949.0,True,True,True,821,0.3383560223651382,0.0,1.0
+2017_Dabos-Christelle_La-Passe-miroir_3-La-Memoire-de-Babel,2017,0,ophélie,6948.0,True,True,True,1464,0.38868472988316854,0.0,1.0
+2019_Murail-Marie-Aude_Sauveur-Fils_5,2019,0,sauveur,3841.0,True,True,True,601,0.2883641506326699,0.0,1.0
